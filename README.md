@@ -1,7 +1,7 @@
-# Hi, I'm Aman👋
+# Hi, I'm Aman 👋
 
-Software Engineer with 3+ years of experience in backend development,
-specializing in Java, Spring Boot, Microservices, REST APIs, and SQL.
+Software Engineer with 3+ years of experience in backend Java development,
+using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable backend features for Finanical and ERP applications.
 
 ### 🛠️ Tech Stack
 
@@ -25,5 +25,5 @@ specializing in Java, Spring Boot, Microservices, REST APIs, and SQL.
 
 ### 📫 Connect
 
-- LinkedIn: [Aman G Nair](https://linkedin.com/in/aman-g-nair)
-- Portfolio: [aman-g-nair](https://aman-g-nair-66murv2.gamma.site)
+- LinkedIn: [linkedin.com/in/aman-g-nair](https://linkedin.com/in/aman-g-nair)
+- Portfolio: [aman-g-nair-66murv2.gamma.site](https://aman-g-nair-66murv2.gamma.site)
