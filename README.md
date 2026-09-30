@@ -18,6 +18,7 @@ using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable back
 - [**E-Commerce Application**](https://github.com/Amangnair/Ecom-web-app) — Java, Spring Boot, JPA, PostgreSQL, React
 - [**Pharmacare**](https://github.com/Amangnair/Pharmacare) — MongoDB, Express.js, AngularJS, Node.js
 - [**Bank Marketing Data Analysis**](https://github.com/Amangnair/Bank-Marketing-Campaign-Data-Analysis) — Python, Pandas, NumPy, Matplotlib
+- [**Library Management System**](https://github.com/Amangnair/Library-Management-System) — Java Swing, MySQL, JDBC, NetBeans IDE
 
 ### 💼 Experience
 
