@@ -1,7 +1,6 @@
 # Hi, I'm Aman 👋
 
-Software Engineer with 3+ years of experience in backend Java development,
-using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable backend features for Finanical and ERP applications.
+Software Engineer with 3+ years of experience in backend Java development, using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable backend features for Financial and ERP applications.
 
 ### 🛠️ Tech Stack
 
@@ -19,6 +18,7 @@ using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable back
 - [**Pharmacare**](https://github.com/Amangnair/Pharmacare) — MongoDB, Express.js, AngularJS, Node.js
 - [**Bank Marketing Data Analysis**](https://github.com/Amangnair/Bank-Marketing-Campaign-Data-Analysis) — Python, Pandas, NumPy, Matplotlib
 - [**Library Management System**](https://github.com/Amangnair/Library-Management-System) — Java Swing, MySQL, JDBC, NetBeans IDE
+- [**Emojify**](https://github.com/Amangnair/Emojify) — Python, FER2013 dataset, OpenCV, TensorFlow/Keras, CustomTkinter, Pillow
 
 ### 💼 Experience
 
