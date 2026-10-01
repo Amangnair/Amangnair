@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-Software Engineer with 3+ years of experience in backend Java development, using Spring Boot, Microservices, REST APIs, and SQL. I have build scalable backend features for Financial and ERP applications.
+I build scalable backend services and REST APIs for Financial and ERP applications.
 
 ### 🛠️ Tech Stack
 
