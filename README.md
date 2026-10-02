@@ -19,6 +19,7 @@ I build scalable backend services and REST APIs for Financial and ERP applicatio
 - [**Bank Marketing Data Analysis**](https://github.com/Amangnair/Bank-Marketing-Campaign-Data-Analysis) — Python, Pandas, NumPy, Matplotlib
 - [**Library Management System**](https://github.com/Amangnair/Library-Management-System) — Java Swing, MySQL, JDBC, NetBeans IDE
 - [**Emojify**](https://github.com/Amangnair/Emojify) — Python, FER2013 dataset, OpenCV, TensorFlow/Keras, CustomTkinter, Pillow
+- [**Scientific Calci**](https://github.com/Amangnair/Scientific-Calci) — Android Studio, Java, Android SDK API 34, Android XML, Material Design 3 components
 
 ### 💼 Experience
 
