@@ -21,10 +21,6 @@ I build scalable backend services and REST APIs for Financial and ERP applicatio
 - [**Emojify**](https://github.com/Amangnair/Emojify) — Python, FER2013 dataset, OpenCV, TensorFlow/Keras, CustomTkinter, Pillow
 - [**Scientific Calci**](https://github.com/Amangnair/Scientific-Calci) — Android Studio, Java, Android SDK API 34, Android XML, Material Design 3 components
 
-### 💼 Experience
-
-**Software Engineer — CGI**  
-
 ### 📫 Connect
 
 - LinkedIn: [linkedin.com/in/aman-g-nair](https://linkedin.com/in/aman-g-nair)
